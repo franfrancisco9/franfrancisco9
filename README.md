@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 <br />
 
----
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
-
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
 
-[mov]: https://www.mov.ai
+[mov]: https://www.mov.ai.com
 [friends]: https://www.ipfn.tecnico.ulisboa.pt/FRIENDS/
 [aerotec]: https://aerotec.pt
 [hs]: https://github.com/HackerSchool
