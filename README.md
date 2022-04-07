@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💻 Board member at [HackerSchool][hs] for managing and doing projects
 - ✈️ Member at [AeroTec][aerotec], part of Olissipo Air Team, which designs aircrafts for european competitions and UAV-ART Team.
 - ☢️ Member at  IPFN on the [FRIENDS][friends] project, to detect radioactivity with drones.
--  🤖 Collaborating with [MOV.AI][https://www.mov.ai] to simulate drones for transporting packages in an environment with obstacles.
+-  🤖 Collaborating with [MOV.AI][mov] to simulate drones for transporting packages in an environment with obstacles.
 - 🚩 Core member of CTF team [IDEK][idek] currently top 3 in the world.
 - 👀 Currently looking for internship opportunities. 
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
 
-[mov]: https://www.mov.ai.com
+[mov]: https://www.mov.ai
 [friends]: https://www.ipfn.tecnico.ulisboa.pt/FRIENDS/
 [aerotec]: https://aerotec.pt
 [hs]: https://github.com/HackerSchool
