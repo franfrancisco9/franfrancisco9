@@ -23,7 +23,7 @@ My name is Francisco Fonseca
 - ✈️ Member at [AeroTec][aerotec], part of Olissipo Air Team, which designs aircrafts for european competitions and UAV-ART Team.
 - ☢️ Member at  IPFN on the [FRIENDS][friends] project, to detect radioactivity with drones.
 -  🤖 Collaborating with [MOV.AI][mov] to simulate drones for transporting packages in an environment with obstacles.
-- 🚩 Core member of CTF team [IDEK][idek] currently top 3 in the world.
+- 🚩 Core member of CTF team [IDEK][idek] currently 1st in the world.
 - 👀 Currently looking for internship opportunities. 
 
 
