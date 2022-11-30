@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=franfrancisco9.repoName)
 
 My name is Francisco Fonseca
-- 🎓 Studying aerospace engineer, currently on the 3rd year, at Instituto Superior Técnico.
-- 🌐 Visit my [website and portfolio][website]
-- 💻 Board member at [HackerSchool][hs] for managing and doing projects
-- ✈️ Member at [AeroTec][aerotec], part of Olissipo Air Team, which designs aircrafts for european competitions and UAV-ART Team.
+- 🎓 Degree in aerospace engineer, currently on my 1st year os Master,  doing Erasmus at TUM.
+- 🌐 Visit my [website and portfolio][website] (under devolopment).
+- 💻 Previously member at [HackerSchool][hs] for managing and doing projects
+- ✈️ Member at [AeroTec][aerotec], part of Atlas, which designs aircrafts for european competitions.
 - ☢️ Member at  IPFN on the [FRIENDS][friends] project, to detect radioactivity with drones.
--  🤖 Collaborating with [MOV.AI][mov] to simulate drones for transporting packages in an environment with obstacles.
-- 🚩 Core member of CTF team [IDEK][idek] currently 1st in the world.
+- 🤖 Collaborated with [MOV.AI][mov] to simulate drones for transporting packages in an environment with obstacles.
+- 🚩 Core member of CTF team [IDEK][idek] currently 13rd in the world.
 - 👀 Currently looking for internship opportunities. 
 
 
