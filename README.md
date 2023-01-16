@@ -42,9 +42,9 @@ My name is Francisco Fonseca
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
--->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
+-->
 ## How to Reach me:
 <a href="mailto:francisco.parreira.fonseca@gmail.com">![francisco.parreira.fonseca@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/francisco-fonseca-2309331b6/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
