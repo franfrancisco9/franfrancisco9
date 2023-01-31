@@ -20,13 +20,10 @@ My name is Francisco Fonseca
 - 🎓 Degree in aerospace engineer, currently on my 1st year os Master,  doing Erasmus at TUM.
 - 🌐 Visit my [website and portfolio][website] (under devolopment).
 - 💻 Previously member at [HackerSchool][hs] for managing and doing projects
-- ✈️ Member at [AeroTec][aerotec], part of Atlas, which designs aircrafts for european competitions.
+- ✈️ Previously mmber at [AeroTec][aerotec], part of Atlas, which designs aircrafts for european competitions.
 - ☢️ Member at  IPFN on the [FRIENDS][friends] project, to detect radioactivity with drones.
-- 🤖 Collaborated with [MOV.AI][mov] to simulate drones for transporting packages in an environment with obstacles.
-- 🚩 Core member of CTF team [IDEK][idek] currently 13rd in the world.
+- 🚩 Core member of CTF team [IDEK][idek] currently top 10 in the world.
 - 👀 Currently looking for internship opportunities. 
-
-
 
 ## Tools and Languages
 [<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
@@ -39,12 +36,11 @@ My name is Francisco Fonseca
 <br />
 <br />
 
-
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franfrancisco9&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franfrancisco9&theme=nord&count_private=true)
+
 ## How to Reach me:
 <a href="mailto:francisco.parreira.fonseca@gmail.com">![francisco.parreira.fonseca@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/francisco-fonseca-2309331b6/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
