@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=franfrancisco9.repoName)
 
 My name is Francisco Fonseca
-- 🎓 Degree in aerospace engineer, currently on my 1st year os Master,  doing Erasmus at TUM.
+- 🎓 Degree in aerospace engineering, currently in my 2nd year of Master's. Did one year of Erasmus at TUM.
 - 🌐 Visit my [website and portfolio][website] (under devolopment).
 - 💻 Previously member at [HackerSchool][hs] for managing and doing projects
-- ✈️ Previously mmber at [AeroTec][aerotec], part of Atlas, which designs aircrafts for european competitions.
+- ✈️ Previously member at [AeroTec][aerotec], part of Atlas, which designs aircraft for European competitions.
 - ☢️ Member at  IPFN on the [FRIENDS][friends] project, to detect radioactivity with drones.
 - 🚩 Core member of CTF team [IDEK][idek] currently top 10 in the world.
 - 👀 Currently looking for internship opportunities. 
